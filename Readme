@@ -1,3 +1,19 @@
+SM Client is a fast, simple file manager for shared folders on your local network. Connect to your PC, NAS or any SMB/Samba share from your phone and manage your files without cables or cloud uploads.
+
+FEATURES
+
+- Browse network folders – open shared folders on Windows PCs, NAS drives and Samba servers
+- Two-way file transfer – download files to your phone and upload files from your phone
+- Transfer controls – watch progress and speed, and pause, resume or cancel any transfer
+- Saved connections – log in quickly with saved server details, with passwords stored encrypted on your device
+- File management – create folders, copy, cut, paste, rename and delete files on the share
+- Clean modern design – Material design with light and dark themes
+
+PRIVATE BY DESIGN
+
+Your files go directly between your phone and your own computer or NAS over your local network. SM Client has no ads, no accounts and no cloud servers. Your login details stay on your device and are only used to connect to the server you choose.
+
+
 HOW TO USE
 
 1. Connect your phone to the same Wi-Fi network as the computer or NAS that has the shared folder.
