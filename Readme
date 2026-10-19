@@ -1,0 +1,19 @@
+HOW TO USE
+
+1. Connect your phone to the same Wi-Fi network as the computer or NAS that has the shared folder.
+2. Open SM Client and enter:
+   • Server IP: the address of your computer or NAS, for example 192.168.1.10
+   • Share name: the name of the shared folder, for example Movies
+   • Username and password, if the share requires them
+3. Tap Connect, then browse, download or upload files.
+
+WHAT IS A SHARE NAME?
+
+A share name is the name a computer gives to a folder when it shares it on the network. It is not the full path. If the network path is \\MyPC\Movies, then MyPC is the computer name and Movies is the share name. Enter only Movies.
+
+Examples:
+- \\192.168.1.10\Movies → Server IP: 192.168.1.10, Share name: Movies
+- \\MyNAS\Photos → Share name: Photos
+- A shared drive F: may have the share name F
+
+Tip: on a Windows PC, open Command Prompt and type net share to see all share names.
